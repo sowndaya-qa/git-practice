@@ -1,1 +1,4 @@
 learning Git step by step
+This is new change in branch
+change 2
+change 3
